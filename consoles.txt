@@ -1,0 +1,1 @@
+cp rf_snap_sim.joblib ../adhd_progressive_assessment_api/artifacts/
